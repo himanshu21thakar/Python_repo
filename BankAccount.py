@@ -67,6 +67,8 @@ class SavingAccount(BankAccount):
 # Create an object of SavingAccount with sample data
 acc = SavingAccount("1234567890", "Himanshu", 550000, 4.5)
 
+acc2 = SavingAccount("1234567899", "Mayur", 650000, 4)
+
 # Display account info (holder name, account number, balance, interest rate)
 acc.display_info()
 
