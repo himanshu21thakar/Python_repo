@@ -26,6 +26,7 @@ Welcome to the **Python_repo** — your one-stop destination to understand and e
 - 💾 **File Handling**
 - 💡 **Exception Handling**
 - 🌐 **Basic Modules & Packages**
+- ⚙️ **Regex**
 
 ---
 
