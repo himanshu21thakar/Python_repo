@@ -27,6 +27,8 @@ Welcome to the **Python_repo** — your one-stop destination to understand and e
 - 💡 **Exception Handling**
 - 🌐 **Basic Modules & Packages**
 - ⚙️ **Regex**
+-  🔢 **NumPy** – Numerical operations, arrays, matrices
+- 📊 **Pandas** – DataFrames, Series, data cleaning and manipulation
 
 ---
 
